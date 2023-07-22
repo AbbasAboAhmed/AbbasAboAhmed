@@ -39,7 +39,7 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 
 
-<https://www.linkedin.com/in/abbasaboahmed>Abbas Ahmed
+[Abbas Ahmed](https://www.linkedin.com/in/abbasaboahmed)
 
 
 
