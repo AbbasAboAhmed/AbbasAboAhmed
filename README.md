@@ -18,7 +18,8 @@ Programming Languages:
 
 Technologies:
 
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/18cacccf-4b56-4f6f-a83c-3e24bd8970a2)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/7beefcef-6312-40b0-a382-6ff746bf8664)
+
 
 
 
