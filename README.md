@@ -10,7 +10,8 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 My skills:
 Programming Languages:
-https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/b6e753e2-9f23-476f-8419-2fedd1193aa4)
+
 
 Technologies:
 Data Analytics
