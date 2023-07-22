@@ -24,6 +24,17 @@ Technologies:
 
 
 Tools:
+
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/f072f8e7-efd4-4be2-b591-74a9188ce69f)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/747b130e-41bb-43b7-a1a4-469645eedda5)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/f381e647-f17b-4c06-a3d6-ce9d1020205b)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/dcdb944c-4170-47b3-8a2c-bc8c76b1eaa6)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/aa013cb0-ec21-4a28-b4ff-eaa842caaf3e)
+
+
+
+
+
 Microsoft SQL Server MySQL Oracle Git  Azure 
 
 
