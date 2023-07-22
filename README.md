@@ -10,10 +10,10 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 My skills:
 Programming Languages:
-Python csharp SQL
+https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg
 
 Technologies:
-Data Science
+Data Analytics
 
 Tools:
 Microsoft SQL Server MySQL Oracle Git  Azure 
