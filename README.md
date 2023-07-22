@@ -29,11 +29,11 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 ## Tools:
 
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/dc3e8ab3-7f84-40dd-b92a-fbf10dc02c32)
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/2b28b7bf-8a1c-4e2c-b046-51bc0eb553eb)
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/40a836a3-f90d-4886-ac30-dcbaf2ead441)
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/e76fb519-d0ee-46e0-979d-de519cabc453)
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/ed59e2ac-685e-4727-bff2-cbd04f1088c4)
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/dc3e8ab3-7f84-40dd-b92a-fbf10dc02c32)     
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/2b28b7bf-8a1c-4e2c-b046-51bc0eb553eb)             
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/40a836a3-f90d-4886-ac30-dcbaf2ead441)                 
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/e76fb519-d0ee-46e0-979d-de519cabc453)               
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/ed59e2ac-685e-4727-bff2-cbd04f1088c4)                         
 
 
 
