@@ -17,7 +17,8 @@ Programming Languages:
 
 
 Technologies:
-Data Analytics
+![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/f0f5de1b-5bdd-4404-825c-9fbde98f1604)
+
 
 Tools:
 Microsoft SQL Server MySQL Oracle Git  Azure 
