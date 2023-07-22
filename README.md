@@ -8,6 +8,11 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 🔗 Mail : abbasaboahmed10@gmail.com
 
+- 🌱 I’m currently learning Business Intelligence Development and Data Analytics.
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: Data Analysis, Data Visualization, Microsoft (Word, Excel, PowerPoint), Python, C #, Power BI, Business Intelligence Tools (SSIS, SSAS and SSRS), Microsoft SQL Server. ✔️
+
 My skills:
 Programming Languages:
 
@@ -21,8 +26,6 @@ Technologies:
 ![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/7beefcef-6312-40b0-a382-6ff746bf8664)
 
 
-
-
 Tools:
 
 ![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/dc3e8ab3-7f84-40dd-b92a-fbf10dc02c32)
@@ -34,23 +37,8 @@ Tools:
 
 
 
+https://www.linkedin.com/in/abbasaboahmed
 
 
 
 
-
-Microsoft SQL Server MySQL Oracle Git  Azure 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
