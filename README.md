@@ -9,9 +9,7 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 🔗 Mail : abbasaboahmed10@gmail.com
 
 - 🌱 I’m currently learning Business Intelligence Development and Data Analytics.
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Data Analysis, Data Visualization, Microsoft (Word, Excel, PowerPoint), Python, C #, Power BI, Business Intelligence Tools (SSIS, SSAS and SSRS), Microsoft SQL Server.✔️
-
 
 ### My skills:
 
