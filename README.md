@@ -15,7 +15,7 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 ## Programming Languages:
 
-![image]<img src="[image name](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/3ed52c13-eb82-4e35-98c1-4e87b664f0d3)" alt= “” width="200" height="200">
+![download](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/4892dcc4-d2c0-4e94-abec-868da849f25f)
 ![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/4b6f0d1a-ee5d-46d1-83ff-9a1697647936)
 ![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/55a8e2a3-f360-481f-8b42-504bf95b1ada)
 
