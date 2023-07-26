@@ -23,14 +23,14 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 
 ## Technologies:
 
-![image](https://github.com/AbbasAboAhmed/AbbasAboAhmed/assets/119682955/7beefcef-6312-40b0-a382-6ff746bf8664)
+- Data Analytics
 
 
 ## Tools:
 
 - Sql Server
 - Oracle
-- MySQl
+- MySQL
 - Azure
 - Github     
 
