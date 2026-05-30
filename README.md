@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Abbas Ahmed,
 ## Summary:
-As a BI Developer or a Data Analyst with around 6 months of professional training and virtual internship programs in Data Analytics, Visualization, Business Intelligence and Databases, I am eager to apply my expertise in designing, developing, and maintaining efficient Business Intelligence solutions including Databases, Data warehouses (DWH), Extract Transform Load (ETL), Data Visualization, God willing confident in my ability to provide valuable insights and support data-driven decision-making for organizations.
+Data Engineer and Analytics professional with 2+ years of experience building scalable ETL pipelines, cloud data solutions, and BI dashboards. Skilled in Databricks, Apache Spark, Azure, and Power BI, with a proven track record across multinational environments 
+including Unilever and Teleperformance. Passionate about turning complex data into actionable business insights. 
 
 📫 How to reach me:
 
