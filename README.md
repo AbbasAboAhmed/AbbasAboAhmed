@@ -6,7 +6,9 @@ including Unilever and Teleperformance. Passionate about turning complex data in
 📫 How to reach me:
 
 🔗 Website : https://abbasaboahmed.github.io/
+
 🔗linkedin : https://www.linkedin.com/in/abbasaboahmed
+
 🔗 Mail : abbasaboahmed10@gmail.com
 
 - 🌱 I’m currently learning Business Intelligence Development and Data Analytics.
