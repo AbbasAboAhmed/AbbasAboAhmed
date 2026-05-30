@@ -16,7 +16,6 @@ As a BI Developer or a Data Analyst with around 6 months of professional trainin
 ## Programming Languages:
 
 - Python
-- C#
 - SQL
 
 
